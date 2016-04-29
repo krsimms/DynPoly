@@ -1,2 +1,2 @@
 # DynPoly
-Interactable Dynamic Polynomial Program
+Interactable Dynamic Polynomial C++ Program
